@@ -1,1 +1,1 @@
-this website shows the portfolio of my projects
+This website shows the portfolio of my projects
